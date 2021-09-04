@@ -4,7 +4,7 @@
 ## Who I am
 I’m a creator, logical, methodical, I like structure and learning new things. A rather typical introvert with atypical affinity to talking and consciously developed ability to identify my feelings and prod others about theirs.
 
-<a href="https://www.16personalities.com/profiles/e62ed8f042bea"><img width="80" height="80" src="https://i.imgur.com/8pwFNBc.png"></a> 
+<a href="https://www.16personalities.com/profiles/e62ed8f042bea"><img width="536" height="140" src="https://i.imgur.com/h7NzedS.png"></a> 
 
 I left a career in a large organisation to pursue a more creative path, but more importantly to do things that excite me, suit better how my brain works and align closer with life circumstances that make me feel content. It may have taken me a few years to create the opportunity to explore coding seriously, and who would have thought that it turns out to be one of these things.
 
