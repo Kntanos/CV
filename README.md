@@ -1,6 +1,16 @@
 # CV
 <a href="https://www.16personalities.com/profiles/e62ed8f042bea"><img align="right" width="80" height="80" src="https://i.imgur.com/8pwFNBc.png"></a>
 
+## Who I am
+
+
+## I can do more than code
+
+
+## Before I got hooked on coding
+<details>
+  <summary>Click to a previous life</summary>
+  
 ## Employment
 <table>
   <tr>
@@ -25,8 +35,9 @@
   </tr>
 </table>
 <br>
+</details>
 
-## Education 
+## Education
 <table>
   <tr>
     <td><b><a href=https://makers.tech>Makers</a> Academy</b><br>16 week intensive bootcamp<br>
@@ -52,4 +63,3 @@
 </table>
 <br>
 
- 
