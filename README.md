@@ -11,9 +11,9 @@ I left a career in a large organisation to pursue a more creative path, but more
 ## Skills and experience
 Years of work experience and creative endeavours have equipped me with a varied set of transferable skills
 
-* **Keen and efficient learner** - When I pick up something new, I will not put it down until I’ve mastered it or at least I exhausted it to the point it succumbs to my will. From AR filters to computational design.
+* **Keen learner** - When I pick up something new, I will not put it down until I’ve mastered it or at least I exhausted it to the point it succumbs to my will. From AR filters to computational design.
  
-* **Effective and efficient** - I have managed large projects with multiple stakeholders, deadlines and a team of staff in my previous jobs. Managing resources, including my time, is not something that causes me stress. I have been self-sufficient and self-motivated throughout change of careers and learning.
+* **Effective and efficient** - I have managed large projects with multiple stakeholders, deadlines and a team of staff in my previous jobs. Managing resources, including my time, is not something that causes me stress. I have been self-sufficient and motivated throughout change of careers and learning new skills.
  
 * **Creative** - I have always maintained a creative outlet and gravitated towards design (I am adept in 3D design (Rhinoceros) and Adobe Photoshop and Illustrator). I approach coding in a similar way to applying design principles to make an aesthetically pleasing art piece. I want my code to be a thing of beauty, even if it is rock, paper, scissors. 
  
