@@ -6,7 +6,11 @@ I’m a creator, logical, methodical, I like structure and learning new things. 
 
 <a href="https://www.16personalities.com/profiles/e62ed8f042bea"><img width="536" height="140" src="https://i.imgur.com/h7NzedS.png"></a> 16personalities.com - click for more
 
-I left a career in a large organisation to pursue a more creative path, but more importantly to do things that excite me, suit better how my brain works and align closer with life circumstances that make me feel content. It may have taken me a few years to create the opportunity to explore coding seriously, and who would have thought that it turns out to be one of these things.
+I trained and worked for 12 years as a Conservation Scientist, eventually leading a team of scientists and conservators that looked after a vast collection of mainly paper-based materials in one of the world's biggest archives. I left that role to pursue a more creative path, but more importantly to do things that excite me, suit better how my brain works and align closer with life circumstances that make me feel content. Coding turns out to be one of these things.
+
+Starting in 2017, I developed a small self-run online creative business. I had to learn how to quickly pick up new knowledge and diligently put it into practice. This reignited my interest in software development, so as soon as I had the opportunity to act on it, I did!
+
+In September 2021 I joined the Makers Academy on the 16-week full-time software development course.
 
 ## Skills and experience
 Years of work experience and creative endeavours have equipped me with a varied set of transferable skills
