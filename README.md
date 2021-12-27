@@ -1,5 +1,6 @@
-# CV - Kostas Ntanos
-
+# Kostas Ntanos - CV
+| 📧 [kostas@ntanos.co.uk](mailto:kostas@ntanos.co.uk) | <a href=https://github.com/Kntanos>Github</a> | <a href=http://www.codewars.com/users/Kostas%20N>Codewars</a> |
+| ------ | ------ | ------ |
 
 ## Who I am
 I’m a creator, logical, methodical, I like structure and learning new things. A rather typical introvert with atypical affinity to talking and consciously developed ability to identify my feelings and prod others about theirs.
@@ -15,18 +16,21 @@ In September 2021 I joined the Makers Academy on the 16-week full-time software 
 ## Skills and experience
 Years of work experience and creative endeavours have equipped me with a varied set of transferable skills
 
-* **Keen learner** - When I pick up something new, I will not put it down until I’ve mastered it or at least I exhausted it to the point it succumbs to my will. From AR filters to computational design.
+* **Keen learner** - When I pick up something new, I will not put it down until I’ve mastered it or at least I exhausted it to the point it succumbs to my will.
  
 * **Effective and efficient** - I have managed large projects with multiple stakeholders, deadlines and a team of staff in my previous jobs. Managing resources, including my time, is not something that causes me stress. I have been self-sufficient and motivated throughout change of careers and learning new skills.
  
-* **Creative** - I have always maintained a creative outlet and gravitated towards design (I am adept in 3D design (Rhinoceros) and Adobe Photoshop and Illustrator). I approach coding in a similar way to applying design principles to make an aesthetically pleasing art piece. I want my code to be a thing of beauty, even if it is rock, paper, scissors. 
+* **Creative** - I have always maintained a creative outlet and gravitated towards design (I am adept in 3D design and Adobe Photoshop and Illustrator). I approach coding in a similar way to applying design principles to make an aesthetically pleasing art piece. I want my code to be a thing of beauty, even if it is rock, paper, scissors. 
  
-* **Problem solving** - I’m analytical. I plan and make a plan B for a plan B. I read instructions and manuals. It may sound boring, but it means I can be relied on to be self-assured and even-tempered when it is most needed. Attention to detail and imaginative problem solving are not mutually exclusive and I’m very inclusive.
+* **Problem solving** - I’m analytical. I plan and make a plan B for a plan B. I read instructions and manuals. It means I can be relied on to be self-assured and even-tempered when it is most needed. Attention to detail and imaginative problem solving are not mutually exclusive.
  
-* **Communication** - Honesty and openness are paramount to me in all my personal relationships and I have cultivated my communication skills to be constructive and concise. As a conservation scientist I’ve learned to communicate complex or abstract concepts to non-specialists, both to executives and the general public. I have no fear of public speaking and I have published academic papers in those days. 
+* **Communication** - Honesty and openness are paramount to me in all my personal relationships and I have cultivated my communication skills to be constructive and concise. As a conservation scientist I’ve learned to communicate complex and abstract concepts to non-specialists, both to executives and the general public. I have no fear of public speaking and I published academic papers in those days of my career. 
 
 ## Projects to pick your interest
-Coming soon...
+| Name                         | Description                                                                   | Tech/tools                                           | Link |
+| ---------------------------- | -----------------                                                             | -----------------                                    | ---------
+| 'Life of Bernard'            | Final 2-week team engineering project. A quick-reflex game.                   | **MERN** stack - MongoDB, ExpressJs, React, NodeJs, Jest, PassportJs, Material UI | [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://life-of-bernard.herokuapp.com/)
+| 'Metabook'                   | Facebook clone. 2-week team engineering project at Makers week 8-9.           | Ruby on Rails, PostgreSQL, RSpec, Capybara, Bootstrap, Javascript  |
 
 ## Before coding
 <details>
@@ -88,8 +92,3 @@ Coming soon...
 * Spending time with my dog
 * Baking cookies
 * Eating cookies
-
-## Where to fine me
-📧 kostas@ntanos.co.uk<br>
-<a href=https://github.com/Kntanos>Github</a><br>
-<a href=http://www.codewars.com/users/Kostas%20N>Codewars</a>
