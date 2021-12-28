@@ -1,20 +1,28 @@
-# Kostas Ntanos - CV
-| 📧 [kostas@ntanos.co.uk](mailto:kostas@ntanos.co.uk) | <a href=https://github.com/Kntanos>Github</a> | <a href=http://www.codewars.com/users/Kostas%20N>Codewars</a> |
-| ------ | ------ | ------ |
+<div align="center">
+ <h1>Kostas Ntanos</h1>
 
+✉️ [kostas@ntanos.co.uk](mailto:kostas@ntanos.co.uk)
+| <a href=https://github.com/Kntanos>Github</a> | <a href=http://www.codewars.com/users/Kostas%20N>Codewars</a> 
+</div>
+ 
 ## Who I am
 I’m a creator, logical, methodical, I like structure and learning new things. A rather typical introvert with atypical affinity to talking and consciously developed ability to identify my feelings and prod others about theirs.
 
-<a href="https://www.16personalities.com/profiles/e62ed8f042bea"><img width="536" height="140" src="https://i.imgur.com/h7NzedS.png"></a> 16personalities.com - click for more
+<div align="center">
+<a href="https://www.16personalities.com/profiles/e62ed8f042bea"><img width="536" height="140" src="https://i.imgur.com/h7NzedS.png"></a>
 
-I trained and worked for 12 years as a Conservation Scientist, eventually leading a team of scientists and conservators that looked after a vast collection of mainly paper-based materials in one of the world's biggest archives. I left that role to pursue a more creative path, but more importantly to do things that excite me, suit better how my brain works and align closer with life circumstances that make me feel content. Coding turns out to be one of these things.
+<a href="https://www.16personalities.com/profiles/e62ed8f042bea">Find out more</a>
+ 
+</div>
+ 
+I trained and worked for 12 years as a Conservation Scientist, eventually leading a team of scientists and conservators that looked after a vast collection of mainly paper-based materials in one of the world's biggest archives. I left that role to pursue a more creative path, but more importantly to do things that excite me, suit better how my brain works and align closer with life circumstances that make me feel content. Coding turns out to be one of those things.
 
 Starting in 2017, I developed a small self-run online creative business. I had to learn how to quickly pick up new knowledge and diligently put it into practice. This reignited my interest in software development, so as soon as I had the opportunity to act on it, I did!
 
 In September 2021 I joined the Makers Academy on the 16-week full-time software development course.
 
 ## Skills and experience
-Years of work experience and creative endeavours have equipped me with a varied set of transferable skills
+Years of work experience and creative endeavours have equipped me with a varied set of transferable skills.
 
 * **Keen learner** - When I pick up something new, I will not put it down until I’ve mastered it or at least I exhausted it to the point it succumbs to my will.
  
