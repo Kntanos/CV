@@ -35,10 +35,10 @@ Years of work experience and creative endeavours have equipped me with a varied 
 * **Communication** - Honesty and openness are paramount to me in all my personal relationships and I have cultivated my communication skills to be constructive and concise. As a conservation scientist I’ve learned to communicate complex and abstract concepts to non-specialists, both to executives and the general public. I have no fear of public speaking and I published academic papers in those days of my career. 
 
 ## Projects to pick your interest
-| Name                         | Description                                                                   | Tech/tools                                           | Link |
+| Name                         | Description                                                                   | Tech/tools                                           | Links |
 | ---------------------------- | -----------------                                                             | -----------------                                    | ---------
-| 'Life of Bernard'            | Final 2-week team engineering project. A quick-reflex game.                   | **MERN** stack - MongoDB, ExpressJs, React, NodeJs, Jest, PassportJs, Material UI | [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://life-of-bernard.herokuapp.com/)
-| 'Metabook'                   | Facebook clone. 2-week team engineering project at Makers week 8-9.           | Ruby on Rails, PostgreSQL, RSpec, Capybara, Bootstrap, Javascript  |
+| 'Life of Bernard'            | Final 2-week team engineering project. A quick-reflex game.                   | **MERN** stack - MongoDB, ExpressJs, React, NodeJs, Jest, PassportJs, Material UI | [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://life-of-bernard.herokuapp.com/) </br> [Back-end](https://github.com/Kntanos/EP3-Gaming-BE) </br> [Front-end](https://github.com/Kntanos/EP3-Gaming-FE)
+| 'Metabook'                   | Facebook clone. 2-week team engineering project at Makers week 8-9.           | Ruby on Rails, PostgreSQL, RSpec, Capybara, Bootstrap, Javascript  | [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)](https://metabook-rails.herokuapp.com/) </br> [Repo](https://github.com/Kntanos/metabook-rails)
 
 ## Before coding
 <details>
@@ -96,7 +96,6 @@ Years of work experience and creative endeavours have equipped me with a varied 
 </table>
 
 ## Interests
-* Walking my dog
-* Spending time with my dog
-* Baking cookies
-* Eating cookies
+* Spending time with my dog.
+* I still enjoy papercraft, designing in 3D and making things out of paper.
+* Cooking and hosting friends for dinner.
