@@ -51,7 +51,7 @@ Years of work experience and creative endeavours have equipped me with a varied 
     <td>London<br>2017 - Present</td>
   </tr>
   <tr>
-  <td><b>Head of Conservation Research and Development</b><br>Lead the reseach programme of the Collection Care Department</td>
+  <td><b>Head of Conservation Research and Development</b><br>Led the reseach programme of the Collection Care Department</td>
     <td>The National Archives, UK<br>2009 - 2018</td>
   </tr>
   <tr>
