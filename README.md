@@ -28,14 +28,16 @@ In September 2021 I joined the Makers Academy on the 16-week full-time software 
 Makers Academy - 16-week Software Development Bootcapm
 Focus on **OOP**, **TDD**, **Agile practices**, **MVC** and **SOLID** principles.
 
+Collaborated with Agile teams with a focus on **XP values**, **pair progamming** and **Git** workflow. 
+The final 2-week project was a demonstation of putting Makers' philosophy of 'Learning to learn' in practice, by using a completely unkown stack (MERN) to code a small game.
+
 In the course of the bootcamp I used the following to built web apps:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![CircleCI](https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=flat&logo=circleci&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white)
 
-Collaborated with Agile teams with a focus on **XP values**, **pair progamming** and **Git** workflow. 
-The final 2-week project was a demonstation of putting Makers' philosophy of 'Learning to learn' in practice, by using a completely unkown stack (MERN) to code a small game.
+I mentored 2 junior students at Makers whilst at the bootcamp and afterwards until they graduated. I supported them by sharing insights from my experience during the bootcamp and helping them navigate challenges of working in a team, TDD and finding useful resources.
 
-
+I volunteer as a coach with [Codebar](https://codebar.io/), an organisation that aims to enable minority group members to learn programming in a safe and collaborative environment. I find seeing the progress of students in the early stage of their coding journey very rewarding and I always learn something new about myself and reinforce my knowledge and understanding of key concepts at every session. 
 
 Years of work experience and creative endeavours have equipped me with a varied set of transferable skills.
 
