@@ -68,7 +68,7 @@ Years of work experience and creative endeavours have equipped me with a varied 
    * Designed the products.
    * Built and run every aspect of the online business to a source of passive income.
    * Delivered workshops at Facebook HQ London in person, and Dublin and Singapore online.
-   * Worked with clianets on custom designs for marketing and branding projects.</td>
+   * Worked with clients on custom designs for marketing and branding projects.</td>
     <td>London<br>2017 - Present</td>
   </tr>
   <tr>
